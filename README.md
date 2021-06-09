@@ -18,6 +18,8 @@ Donator(Store): able to register their store, add items that will be avalaible.
 <img width="272" alt="Screen Shot 2021-06-09 at 6 05 01 PM" src="https://user-images.githubusercontent.com/57559023/121436075-e82f2280-c94d-11eb-9955-4428cba46740.png">
 
 User: able to locate food near them, without registration. Easy and convenient.
+
+
 <img width="277" alt="Screen Shot 2021-06-09 at 6 06 03 PM" src="https://user-images.githubusercontent.com/57559023/121436152-0dbc2c00-c94e-11eb-9a1b-e4e11c55dc95.png">
 
 <img width="257" alt="Screen Shot 2021-06-09 at 6 07 13 PM" src="https://user-images.githubusercontent.com/57559023/121436173-157bd080-c94e-11eb-9cba-916797427dd6.png">
