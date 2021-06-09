@@ -22,7 +22,7 @@ User: able to locate food near them, without registration. Easy and convenient.
 
 <img width="277" alt="Screen Shot 2021-06-09 at 6 06 03 PM" src="https://user-images.githubusercontent.com/57559023/121436152-0dbc2c00-c94e-11eb-9a1b-e4e11c55dc95.png">
 
-<img width="257" alt="Screen Shot 2021-06-09 at 6 07 13 PM" src="https://user-images.githubusercontent.com/57559023/121436173-157bd080-c94e-11eb-9cba-916797427dd6.png">
+<img width="264" alt="Screen Shot 2021-06-09 at 6 18 32 PM" src="https://user-images.githubusercontent.com/57559023/121436759-2aa52f00-c94f-11eb-916d-1177faec1060.png">
 
 
 
